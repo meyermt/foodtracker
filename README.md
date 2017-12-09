@@ -1,5 +1,6 @@
-# mpcs51030-2017-summer-assignment-1-meyermt
-mpcs51030-2017-summer-assignment-1-meyermt created by GitHub Classroom
+# FoodTracker
+
+iOS introductory food tracker app. Also has some playground code with basic coding concepts.
 
 ## Where are The Files?
 
